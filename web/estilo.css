@@ -1,0 +1,30 @@
+input{
+    font-family: "Tahoma";
+    font-size: 12px;  
+}
+label{
+    font-family: "Tahoma";
+    font-size: 12px;
+    }
+    
+ li {
+    font-family: "Tahoma";
+    font-size: 12px;
+ }        
+  
+ table{
+    font-family: "Tahoma";
+    font-size: 12px;
+    
+    
+ }
+ 
+ th{font-family: "Tahoma";
+    font-size: 12px;
+    background-color: skyblue;
+    }
+    
+ td{font-family: "Tahoma";
+    font-size: 12px;
+    }
+    
